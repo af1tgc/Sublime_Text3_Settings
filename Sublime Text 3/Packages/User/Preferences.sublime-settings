@@ -1,0 +1,62 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "solid",
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"default_line_ending": "unix",
+	"enable_tab_scrolling": false,
+	"fade_fold_buttons": false,
+	"font_face": "Bitstream Vera Sans Mono",
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"SublimeCodeIntel",
+		"CSS-CodeIntel",
+		"Cpp-CodeIntel",
+		"HTML-CodeIntel",
+		"JSON-CodeIntel",
+		"JavaScript-CodeIntel",
+		"Markdown-CodeIntel",
+		"OCaml-CodeIntel",
+		"PHP-CodeIntel",
+		"Python-CodeIntel",
+		"Rust-CodeIntel",
+		"YAML-CodeIntel"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"repositories":
+	[
+		"https://github.com/Kronuz/SublimeCodeIntel",
+		"https://github.com/Kronuz/CSS-CodeIntel",
+		"https://github.com/Kronuz/Cpp-CodeIntel",
+		"https://github.com/Kronuz/HTML-CodeIntel",
+		"https://github.com/Kronuz/JSON-CodeIntel",
+		"https://github.com/Kronuz/JavaScript-CodeIntel",
+		"https://github.com/Kronuz/Markdown-CodeIntel",
+		"https://github.com/Kronuz/OCaml-CodeIntel",
+		"https://github.com/Kronuz/PHP-CodeIntel",
+		"https://github.com/Kronuz/Python-CodeIntel",
+		"https://github.com/Kronuz/Rust-CodeIntel",
+		"https://github.com/Kronuz/YAML-CodeIntel"
+	],
+	"rulers":
+	[
+		200
+	],
+	"spacegray_fileicons": true,
+	"spacegray_sidebar_font_normal": true,
+	"spacegray_sidebar_tree_small": true,
+	"spacegray_tabs_auto_width": true,
+	"spacegray_tabs_font_small": true,
+	"spacegray_tabs_normal": true,
+	"tab_size": 4,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}

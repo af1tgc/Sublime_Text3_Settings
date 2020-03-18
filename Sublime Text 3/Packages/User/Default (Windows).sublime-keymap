@@ -1,0 +1,18 @@
+[
+    // Toggle the default shell in panel
+     { "keys": ["alt+`"], "command": "toggle_terminus_panel" },
+
+    // Open a terminal tab at current file directory
+     {
+         "keys": ["ctrl+alt+t"], "command": "terminus_open", "args": {
+             "cwd": "${file_path:${folder}}"
+         }
+     },
+    { "keys": ["alt+q"], "command": "close" },
+    { "keys": [""], "command": "terminus_keypress", "args": {"key": "q", "alt": true}, "context": [{"key": "terminus_view"}] },
+    { "keys": [""], "command": "toggle_record_macro" },
+    { "keys": ["alt+enter"], "command": "toggle_full_screen" },
+    { "keys": ["f11"], "command": "find_all", "args": {"close_panel": true},
+         "context": [{"key": "panel", "operand": "find"}, {"key": "panel_has_focus"}]
+    }
+]

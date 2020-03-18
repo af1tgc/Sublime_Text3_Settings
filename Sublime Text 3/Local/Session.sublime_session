@@ -1,0 +1,813 @@
+{
+	"folder_history":
+	[
+		"/D/x300_Development/x999_Github/x001_Crawler",
+		"/D/x300_Development/x999_Github/x__0_SUBLIME_MERGE_TEST",
+		"/D/x300_Development/x001_DA/202002_Pytorch.study",
+		"/D/x300_Development/x001_DA/202002_KBO_POS_CLUSTERING",
+		"/D/x300_Development/x001_DA/202002_Hands_On_Machine_Learning-Study",
+		"/D/x300_Development/x001_DA/202001_Dacon_SMS_Smishing",
+		"/D/x300_Development/x001_DA/201912_tf.colab.study-master",
+		"/D/x300_Development/x001_DA/202003_Delisting-Prediction",
+		"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS",
+		"/D/x300_Development/x002_SecureAnalysis/x01_AVK/Codes",
+		"/D/x300_Development/x002_SecureAnalysis/x01_AVK/Codes/myvw.vwkr.co.kr",
+		"/D/x300_Development/x002_SecureAnalysis/x01_AVK/Codes/myvolkswagen.vwkr.co.kr"
+	],
+	"last_version": 3211,
+	"last_window_id": 25,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 451.428571429,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ko",
+						"kospi_json〔variable〕"
+					],
+					[
+						"delis",
+						"delisting"
+					],
+					[
+						"de",
+						"delisting_querys"
+					],
+					[
+						"nkey",
+						"nkeyJSON"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"pca C I",
+						"Package Control: Install Package"
+					],
+					[
+						"package re",
+						"Package Control: Remove Package"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add All"
+					],
+					[
+						"pcac i",
+						"Package Control: Install Package"
+					],
+					[
+						"git pull",
+						"Git: Pull Using Rebase"
+					],
+					[
+						"git co",
+						"Git: Commit"
+					],
+					[
+						"git add a",
+						"Git: Add All"
+					],
+					[
+						"git ",
+						"Git: Init"
+					],
+					[
+						"git commi",
+						"Git: Commit"
+					],
+					[
+						":w\\",
+						":w - Save"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"perttty",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"pretty",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						":wq",
+						"BracketHighlighter: Swap Quotes"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"pc r",
+						"Package Control: Remove Package"
+					],
+					[
+						"pc i",
+						"Package Control: Install Package"
+					],
+					[
+						"git add ",
+						"Git: Add All"
+					],
+					[
+						"anaconda: ",
+						"Anaconda: Vagrant Status"
+					],
+					[
+						"pacCI",
+						"Package Control: Install Package"
+					],
+					[
+						"package ",
+						"Package Control: Remove Package"
+					],
+					[
+						"pcI",
+						"Package Control: Install Package"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"git",
+						"Git: Init"
+					],
+					[
+						"git: ",
+						"Git: Init"
+					],
+					[
+						"git add all",
+						"Git: Add All"
+					],
+					[
+						"conda",
+						"Conda: Activate Environment"
+					],
+					[
+						"pc",
+						"Package Control: Install Package"
+					],
+					[
+						":close",
+						"File: Close All"
+					],
+					[
+						"pc ins",
+						"Package Control: Install Package"
+					],
+					[
+						"package co",
+						"Package Control: Install Package"
+					],
+					[
+						"Install Package Control",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/af1tg/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/af1tg/AppData/Roaming/Sublime Text 3/Packages/Terminus/Default.sublime-keymap",
+				"/C/Users/af1tg/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/news_parser_final.py",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/news_parser.py",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/news_counter.py",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/querys/parsed/counter/delisting_kospi_counter.json",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/querys/parsed/counter/delisting_kosdac_counter.json",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/.gitignore",
+				"/D/x300_Development/x999_Github/x001_Crawler/.gitattributes",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/querys/delisting_kospi",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/querys/parsed/%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%8A%A4.json",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/querys/parsed/counter/delisting_news_counter.json",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/KRX_DATA/_RAW/KOSDAQ.json",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/KRX_DATA/_RAW/KOSPI.json",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/querys/parsed/delisting_news_counter.json",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/querys/delisting_test",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/querys/delisting",
+				"/D/x300_Development/x999_Github/x__0_SUBLIME_MERGE_TEST/sublime_merge_test.py",
+				"/C/Users/af1tg/AppData/Roaming/Sublime Merge/Packages/User/Preferences.sublime-settings",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles/node_modules/.bin/acorn",
+				"/C/Users/af1tg/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/C/Users/af1tg/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"/C/Users/af1tg/AppData/Roaming/Sublime Text 3/Packages/Conda/Conda (Windows).sublime-settings",
+				"/C/Users/af1tg/AppData/Roaming/Sublime Text 3/Packages/User/Conda (Windows).sublime-settings",
+				"/D/x300_Development/x001_DA/201912_tf.colab.study-master/Basic_Image_Classification.ipynb",
+				"/C/Users/af1tg/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/af1tg/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/D/x400_Insight/x001_Design/Sample_Text",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles/routes/index.js",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/README.md",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/querys/parsed/%ED%8C%8C%ED%8B%B0%EA%B2%8C%EC%9E%84%EC%A6%88%0A.json",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/api_keys/naver_key.json",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/news_parser.py",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles/routes/parsed/파티게임즈.json",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles/routes/parsed/코리아01호.json",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/KRX_DATA/json_to_csv.js",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles/routes/querys/delisting.json",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles/routes/parsed/코리아01호.csv",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles/routes/api_keys/naverkey.json",
+				"/D/x300_Development/x002_SecureAnalysis/x01_AVK/Codes/myvw.vwkr.co.kr/MYVWAPP/src/main/java/com/volkswagen/controller/member/MemberController.java",
+				"/D/x300_Development/x002_SecureAnalysis/x01_AVK/Codes/myvw.vwkr.co.kr/MYVWAPP/src/main/java/com/volkswagen/controller/myvw/MyCarController.java",
+				"/D/x300_Development/x002_SecureAnalysis/x01_AVK/Codes/myvw.vwkr.co.kr/MYVWAPP/src/main/webapp/WEB-INF/views/front/common/car_inquiry.jsp",
+				"/D/x300_Development/x002_SecureAnalysis/x01_AVK/Codes/myvw.vwkr.co.kr/MYVWAPP/src/main/webapp/GIFT/list.jsp",
+				"/D/x300_Development/x002_SecureAnalysis/x01_AVK/Codes/myvw.vwkr.co.kr/MYVWAPP/src/main/webapp/GIFT/detail.jsp",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/KRX_DATA/CSV/KOSDAQ.csv",
+				"/D/x200_DataForAnalysis/x005_Delim/01_Datasets/_RAW/KOSDAQ.json",
+				"/D/x200_DataForAnalysis/x005_Delim/01_Datasets/_RAW/KOSPI.json",
+				"/D/x100_Documents/x998_Assignment/x02_ML/Card",
+				"/D/x900_Utils/x999_Pentesting/x04_Frida_Codes/2_iOS/raptor_ios_trace.js",
+				"/D/x900_Utils/x999_Pentesting/x04_Frida_Codes/2_iOS/raptor_ios_enum.js",
+				"/D/x900_Utils/x999_Pentesting/x04_Frida_Codes/1_Android/bypass_rooting_detection.js",
+				"/D/x900_Utils/x999_Pentesting/x04_Frida_Codes/1_Android/bypass_ssl_pinning.js",
+				"/D/x900_Utils/x999_Pentesting/x04_Frida_Codes/1_Android/raptor_frida_android_trace.js",
+				"/D/x900_Utils/x999_Pentesting/x04_Frida_Codes/README.md",
+				"/Z/index.html",
+				"/D/x900_Utils/x999_Pentesting/x04_Frida_Codes/1_Android/return_params.js",
+				"/D/x900_Utils/x999_Pentesting/x04_Frida_Codes/1_Android/runtime_params.py",
+				"/D/x900_Utils/x999_Pentesting/x04_Frida_Codes/1_Android/raptor_frida_android_enum.js",
+				"/D/x300_Development/x001_DA/202002_KBO_POS_CLUSTERING/x02_data/FUT_raw",
+				"/D/x300_Development/x001_DA/202002_KBO_POS_CLUSTERING/x02_data/KBO_DATA.tsv",
+				"/D/x200_DataForAnalysis/x002_BaseballPlayer_Clustering/1_FuturesLeague/2019.tsv",
+				"/D/x200_DataForAnalysis/x002_BaseballPlayer_Clustering/2011.tsv",
+				"/D/x200_DataForAnalysis/x002_BaseballPlayer_Clustering/9_KBO_ATK_W_POS/KBO_DATA.tsv",
+				"/D/x200_DataForAnalysis/x002_BaseballPlayer_Clustering/1_FuturesLeague/2010.tsv",
+				"/D/x200_DataForAnalysis/x002_BaseballPlayer_Clustering/1_FuturesLeague/2011.tsv",
+				"/D/x200_DataForAnalysis/x002_BaseballPlayer_Clustering/1_FuturesLeague/2012.tsv",
+				"/D/x200_DataForAnalysis/x002_BaseballPlayer_Clustering/1_FuturesLeague/2013.tsv",
+				"/D/x200_DataForAnalysis/x002_BaseballPlayer_Clustering/1_FuturesLeague/2014.tsv",
+				"/D/x200_DataForAnalysis/x002_BaseballPlayer_Clustering/1_FuturesLeague/2015.tsv",
+				"/D/x200_DataForAnalysis/x002_BaseballPlayer_Clustering/1_FuturesLeague/2016.tsv",
+				"/D/x200_DataForAnalysis/x002_BaseballPlayer_Clustering/1_FuturesLeague/2017.tsv",
+				"/D/x200_DataForAnalysis/x002_BaseballPlayer_Clustering/1_FuturesLeague/2018.tsv"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 38.8571428571
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 104.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 74.2857142857
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 234.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1229.71428571
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ko",
+						"kospi_json〔variable〕"
+					],
+					[
+						"delis",
+						"delisting"
+					],
+					[
+						"de",
+						"delisting_querys"
+					],
+					[
+						"nkey",
+						"nkeyJSON"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"pca C I",
+						"Package Control: Install Package"
+					],
+					[
+						"package re",
+						"Package Control: Remove Package"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add All"
+					],
+					[
+						"pcac i",
+						"Package Control: Install Package"
+					],
+					[
+						"git pull",
+						"Git: Pull Using Rebase"
+					],
+					[
+						"git co",
+						"Git: Commit"
+					],
+					[
+						"git add a",
+						"Git: Add All"
+					],
+					[
+						"git ",
+						"Git: Init"
+					],
+					[
+						"git commi",
+						"Git: Commit"
+					],
+					[
+						":w\\",
+						":w - Save"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"perttty",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"pretty",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						":wq",
+						"BracketHighlighter: Swap Quotes"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"pc r",
+						"Package Control: Remove Package"
+					],
+					[
+						"pc i",
+						"Package Control: Install Package"
+					],
+					[
+						"git add ",
+						"Git: Add All"
+					],
+					[
+						"anaconda: ",
+						"Anaconda: Vagrant Status"
+					],
+					[
+						"pacCI",
+						"Package Control: Install Package"
+					],
+					[
+						"package ",
+						"Package Control: Remove Package"
+					],
+					[
+						"pcI",
+						"Package Control: Install Package"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"git",
+						"Git: Init"
+					],
+					[
+						"git: ",
+						"Git: Init"
+					],
+					[
+						"git add all",
+						"Git: Add All"
+					],
+					[
+						"conda",
+						"Conda: Activate Environment"
+					],
+					[
+						"pc",
+						"Package Control: Install Package"
+					],
+					[
+						":close",
+						"File: Close All"
+					],
+					[
+						"pc ins",
+						"Package Control: Install Package"
+					],
+					[
+						"package co",
+						"Package Control: Install Package"
+					],
+					[
+						"Install Package Control",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/af1tg/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/af1tg/AppData/Roaming/Sublime Text 3/Packages/Terminus/Default.sublime-keymap",
+				"/C/Users/af1tg/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/news_parser_final.py",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/news_parser.py",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/news_counter.py",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/querys/parsed/counter/delisting_kospi_counter.json",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/querys/parsed/counter/delisting_kosdac_counter.json",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/.gitignore",
+				"/D/x300_Development/x999_Github/x001_Crawler/.gitattributes",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/querys/delisting_kospi",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/querys/parsed/%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%8A%A4.json",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/querys/parsed/counter/delisting_news_counter.json",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/KRX_DATA/_RAW/KOSDAQ.json",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/KRX_DATA/_RAW/KOSPI.json",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/querys/parsed/delisting_news_counter.json",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/querys/delisting_test",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/querys/delisting",
+				"/D/x300_Development/x999_Github/x__0_SUBLIME_MERGE_TEST/sublime_merge_test.py",
+				"/C/Users/af1tg/AppData/Roaming/Sublime Merge/Packages/User/Preferences.sublime-settings",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles/node_modules/.bin/acorn",
+				"/C/Users/af1tg/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/C/Users/af1tg/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"/C/Users/af1tg/AppData/Roaming/Sublime Text 3/Packages/Conda/Conda (Windows).sublime-settings",
+				"/C/Users/af1tg/AppData/Roaming/Sublime Text 3/Packages/User/Conda (Windows).sublime-settings",
+				"/D/x300_Development/x001_DA/201912_tf.colab.study-master/Basic_Image_Classification.ipynb",
+				"/C/Users/af1tg/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/af1tg/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/D/x400_Insight/x001_Design/Sample_Text",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles/routes/index.js",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/README.md",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/querys/parsed/%ED%8C%8C%ED%8B%B0%EA%B2%8C%EC%9E%84%EC%A6%88%0A.json",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles_py/api_keys/naver_key.json",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/news_parser.py",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles/routes/parsed/파티게임즈.json",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles/routes/parsed/코리아01호.json",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/KRX_DATA/json_to_csv.js",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles/routes/querys/delisting.json",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles/routes/parsed/코리아01호.csv",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/NAVER_NEWS/Delisting_Articles/routes/api_keys/naverkey.json",
+				"/D/x300_Development/x002_SecureAnalysis/x01_AVK/Codes/myvw.vwkr.co.kr/MYVWAPP/src/main/java/com/volkswagen/controller/member/MemberController.java",
+				"/D/x300_Development/x002_SecureAnalysis/x01_AVK/Codes/myvw.vwkr.co.kr/MYVWAPP/src/main/java/com/volkswagen/controller/myvw/MyCarController.java",
+				"/D/x300_Development/x002_SecureAnalysis/x01_AVK/Codes/myvw.vwkr.co.kr/MYVWAPP/src/main/webapp/WEB-INF/views/front/common/car_inquiry.jsp",
+				"/D/x300_Development/x002_SecureAnalysis/x01_AVK/Codes/myvw.vwkr.co.kr/MYVWAPP/src/main/webapp/GIFT/list.jsp",
+				"/D/x300_Development/x002_SecureAnalysis/x01_AVK/Codes/myvw.vwkr.co.kr/MYVWAPP/src/main/webapp/GIFT/detail.jsp",
+				"/D/x300_Development/x001_DA/202003_Delisting-Prediction/01_Datasets/KRX_DATA/CSV/KOSDAQ.csv",
+				"/D/x200_DataForAnalysis/x005_Delim/01_Datasets/_RAW/KOSDAQ.json",
+				"/D/x200_DataForAnalysis/x005_Delim/01_Datasets/_RAW/KOSPI.json",
+				"/D/x100_Documents/x998_Assignment/x02_ML/Card",
+				"/D/x900_Utils/x999_Pentesting/x04_Frida_Codes/2_iOS/raptor_ios_trace.js",
+				"/D/x900_Utils/x999_Pentesting/x04_Frida_Codes/2_iOS/raptor_ios_enum.js",
+				"/D/x900_Utils/x999_Pentesting/x04_Frida_Codes/1_Android/bypass_rooting_detection.js",
+				"/D/x900_Utils/x999_Pentesting/x04_Frida_Codes/1_Android/bypass_ssl_pinning.js",
+				"/D/x900_Utils/x999_Pentesting/x04_Frida_Codes/1_Android/raptor_frida_android_trace.js",
+				"/D/x900_Utils/x999_Pentesting/x04_Frida_Codes/README.md",
+				"/Z/index.html",
+				"/D/x900_Utils/x999_Pentesting/x04_Frida_Codes/1_Android/return_params.js",
+				"/D/x900_Utils/x999_Pentesting/x04_Frida_Codes/1_Android/runtime_params.py",
+				"/D/x900_Utils/x999_Pentesting/x04_Frida_Codes/1_Android/raptor_frida_android_enum.js",
+				"/D/x300_Development/x001_DA/202002_KBO_POS_CLUSTERING/x02_data/FUT_raw",
+				"/D/x300_Development/x001_DA/202002_KBO_POS_CLUSTERING/x02_data/KBO_DATA.tsv",
+				"/D/x200_DataForAnalysis/x002_BaseballPlayer_Clustering/1_FuturesLeague/2019.tsv",
+				"/D/x200_DataForAnalysis/x002_BaseballPlayer_Clustering/2011.tsv",
+				"/D/x200_DataForAnalysis/x002_BaseballPlayer_Clustering/9_KBO_ATK_W_POS/KBO_DATA.tsv",
+				"/D/x200_DataForAnalysis/x002_BaseballPlayer_Clustering/1_FuturesLeague/2010.tsv",
+				"/D/x200_DataForAnalysis/x002_BaseballPlayer_Clustering/1_FuturesLeague/2011.tsv",
+				"/D/x200_DataForAnalysis/x002_BaseballPlayer_Clustering/1_FuturesLeague/2012.tsv",
+				"/D/x200_DataForAnalysis/x002_BaseballPlayer_Clustering/1_FuturesLeague/2013.tsv",
+				"/D/x200_DataForAnalysis/x002_BaseballPlayer_Clustering/1_FuturesLeague/2014.tsv",
+				"/D/x200_DataForAnalysis/x002_BaseballPlayer_Clustering/1_FuturesLeague/2015.tsv",
+				"/D/x200_DataForAnalysis/x002_BaseballPlayer_Clustering/1_FuturesLeague/2016.tsv",
+				"/D/x200_DataForAnalysis/x002_BaseballPlayer_Clustering/1_FuturesLeague/2017.tsv",
+				"/D/x200_DataForAnalysis/x002_BaseballPlayer_Clustering/1_FuturesLeague/2018.tsv"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 38.8571428571
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 104.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,398,-1396,-101,-154",
+			"project": "",
+			"replace":
+			{
+				"height": 74.2857142857
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 234.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			},
+			"window_id": 16,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
